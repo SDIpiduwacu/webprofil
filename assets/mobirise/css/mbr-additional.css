@@ -1495,15 +1495,15 @@ a {
 .cid-uccbigJUyA .mbr-text UL {
   text-align: left;
 }
-.cid-uc4YYbEZkB {
-  padding-top: 2rem;
+.cid-ucIHyRMjHb {
+  padding-top: 9rem;
   padding-bottom: 5rem;
   background-image: url("../../../assets/images/whatsapp-image-2024-05-06-at-11.36.58-1.jpeg");
 }
-.cid-uc4YYbEZkB .mbr-fallback-image.disabled {
+.cid-ucIHyRMjHb .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uc4YYbEZkB .mbr-fallback-image {
+.cid-ucIHyRMjHb .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1513,22 +1513,22 @@ a {
   top: 0;
 }
 @media (max-width: 767px) {
-  .cid-uc4YYbEZkB .row {
+  .cid-ucIHyRMjHb .row {
     flex-direction: column-reverse;
   }
-  .cid-uc4YYbEZkB .row .map-wrapper {
+  .cid-ucIHyRMjHb .row .map-wrapper {
     margin-bottom: 2rem;
   }
 }
-.cid-uc4YYbEZkB .google-map {
+.cid-ucIHyRMjHb .google-map {
   height: 100%;
   position: relative;
 }
-.cid-uc4YYbEZkB .google-map iframe {
+.cid-ucIHyRMjHb .google-map iframe {
   height: 100%;
   width: 100%;
 }
-.cid-uc4YYbEZkB .google-map [data-state-details] {
+.cid-ucIHyRMjHb .google-map [data-state-details] {
   color: #6b6763;
   height: 1.5em;
   margin-top: -0.75em;
@@ -1539,35 +1539,35 @@ a {
   top: 50%;
   width: 100%;
 }
-.cid-uc4YYbEZkB .google-map[data-state] {
+.cid-ucIHyRMjHb .google-map[data-state] {
   background: #e9e5dc;
 }
-.cid-uc4YYbEZkB .google-map[data-state="loading"] [data-state-details] {
+.cid-ucIHyRMjHb .google-map[data-state="loading"] [data-state-details] {
   display: none;
 }
-.cid-uc4YYbEZkB .image-wrapper {
+.cid-ucIHyRMjHb .image-wrapper {
   display: flex;
   align-items: center;
 }
-.cid-uc4YYbEZkB .card-wrapper {
+.cid-ucIHyRMjHb .card-wrapper {
   display: flex;
   border-radius: 4px;
   background: #fafafa;
 }
-.cid-uc4YYbEZkB .card-wrapper:not(:nth-last-child(1)) {
+.cid-ucIHyRMjHb .card-wrapper:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
 }
 @media (max-width: 991px) {
-  .cid-uc4YYbEZkB .card-wrapper {
+  .cid-ucIHyRMjHb .card-wrapper {
     padding: 1rem 2rem;
   }
 }
 @media (min-width: 992px) {
-  .cid-uc4YYbEZkB .card-wrapper {
+  .cid-ucIHyRMjHb .card-wrapper {
     padding: 2rem 4rem;
   }
 }
-.cid-uc4YYbEZkB .mbr-iconfont {
+.cid-ucIHyRMjHb .mbr-iconfont {
   font-size: 2rem;
   padding-right: 1.5rem;
   color: #c84673;

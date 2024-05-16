@@ -1364,15 +1364,15 @@ a {
 .cid-uaFQXhg3x0 .mbr-section-title {
   color: #ffffff;
 }
-.cid-ucc6rRWahh {
-  padding-top: 5rem;
-  padding-bottom: 5rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-05-06-at-11.36.58-1.jpeg");
+.cid-ucUZ5zDWdx {
+  padding-top: 0rem;
+  padding-bottom: 4rem;
+  background-image: url("../../../assets/images/upacara.jpg");
 }
-.cid-ucc6rRWahh .mbr-fallback-image.disabled {
+.cid-ucUZ5zDWdx .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-ucc6rRWahh .mbr-fallback-image {
+.cid-ucUZ5zDWdx .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1381,33 +1381,21 @@ a {
   position: absolute;
   top: 0;
 }
-@media (max-width: 767px) {
-  .cid-ucc6rRWahh .card-content-text {
-    padding: 0 1.5rem 1.5rem 1.5rem;
+@media (max-width: 991px) {
+  .cid-ucUZ5zDWdx .image-wrapper {
+    margin-bottom: 1rem;
   }
 }
-@media (min-width: 768px) {
-  .cid-ucc6rRWahh .card-content-text {
-    padding: 0 2.25rem 2.25rem 2.25rem;
-  }
+.cid-ucUZ5zDWdx .row {
+  flex-direction: row-reverse;
+}
+.cid-ucUZ5zDWdx img {
+  width: 100%;
 }
 @media (min-width: 992px) {
-  .cid-ucc6rRWahh .card-content-text {
-    padding: 1rem 4rem 4rem 4rem;
+  .cid-ucUZ5zDWdx .text-wrapper {
+    padding: 2rem;
   }
-}
-.cid-ucc6rRWahh .card-wrapper {
-  background: #ffffff;
-}
-.cid-ucc6rRWahh .mbr-text,
-.cid-ucc6rRWahh .mbr-section-btn {
-  color: #000000;
-  text-align: left;
-}
-.cid-ucc6rRWahh .card-title,
-.cid-ucc6rRWahh .card-box {
-  text-align: left;
-  color: #000000;
 }
 .cid-uccbigJUyA {
   padding-top: 6rem;
@@ -1496,7 +1484,7 @@ a {
   text-align: left;
 }
 .cid-ucIIl1QQKy {
-  padding-top: 9rem;
+  padding-top: 1rem;
   padding-bottom: 5rem;
   background-image: url("../../../assets/images/whatsapp-image-2024-05-06-at-11.36.58-1.jpeg");
 }

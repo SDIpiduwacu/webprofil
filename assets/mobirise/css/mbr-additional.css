@@ -1397,92 +1397,6 @@ a {
     padding: 2rem;
   }
 }
-.cid-uccbigJUyA {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-05-06-at-11.36.58-1.jpeg");
-}
-.cid-uccbigJUyA .row {
-  flex-direction: row-reverse;
-}
-.cid-uccbigJUyA .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uccbigJUyA .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uccbigJUyA .mbr-description {
-  text-align: left;
-}
-.cid-uccbigJUyA .item-wrapper {
-  background: #ffffff;
-  margin-bottom: 2rem;
-  padding: 2.25rem 2.25rem 1rem 2.25rem;
-}
-@media (max-width: 767px) {
-  .cid-uccbigJUyA .item-wrapper {
-    padding: 2rem 1.5rem 0.5rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-uccbigJUyA .item-wrapper {
-    padding: 2rem 1.5rem 0.5rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-.cid-uccbigJUyA .card-title,
-.cid-uccbigJUyA .iconfont-wrapper {
-  color: #000000;
-}
-.cid-uccbigJUyA .card-text {
-  color: #000000;
-}
-.cid-uccbigJUyA .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-uccbigJUyA .mbr-text,
-.cid-uccbigJUyA .mbr-section-btn {
-  text-align: center;
-}
-.cid-uccbigJUyA .card-text,
-.cid-uccbigJUyA .item .mbr-section-btn {
-  text-align: left;
-}
-.cid-uccbigJUyA .counter-container ul {
-  margin: 0;
-  padding-left: 2.25rem;
-  list-style: none;
-}
-.cid-uccbigJUyA .counter-container ul li {
-  position: relative;
-  list-style: none;
-  margin-bottom: 2rem;
-}
-.cid-uccbigJUyA .counter-container ul li:before {
-  position: absolute;
-  left: -1.5em;
-  content: "";
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #232323;
-  background-color: #232323;
-  width: 0.5em;
-  height: 0.5em;
-  top: 0.4em;
-  border-radius: 50%;
-}
-.cid-uccbigJUyA .mbr-text UL {
-  text-align: left;
-}
 .cid-ucIIl1QQKy {
   padding-top: 1rem;
   padding-bottom: 5rem;
@@ -6760,6 +6674,92 @@ a {
   background-color: #c84673;
   overflow: hidden;
 }
+.cid-ueaeMdBuAl {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/whatsapp-image-2024-05-06-at-11.36.58-1.jpeg");
+}
+.cid-ueaeMdBuAl .row {
+  flex-direction: row-reverse;
+}
+.cid-ueaeMdBuAl .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-ueaeMdBuAl .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-ueaeMdBuAl .mbr-description {
+  text-align: left;
+}
+.cid-ueaeMdBuAl .item-wrapper {
+  background: #ffffff;
+  margin-bottom: 2rem;
+  padding: 2.25rem 2.25rem 1rem 2.25rem;
+}
+@media (max-width: 767px) {
+  .cid-ueaeMdBuAl .item-wrapper {
+    padding: 2rem 1.5rem 0.5rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+@media (min-width: 992px) and (max-width: 1200px) {
+  .cid-ueaeMdBuAl .item-wrapper {
+    padding: 2rem 1.5rem 0.5rem 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
+.cid-ueaeMdBuAl .card-title,
+.cid-ueaeMdBuAl .iconfont-wrapper {
+  color: #000000;
+}
+.cid-ueaeMdBuAl .card-text {
+  color: #000000;
+}
+.cid-ueaeMdBuAl .mbr-section-title {
+  color: #000000;
+  text-align: center;
+}
+.cid-ueaeMdBuAl .mbr-text,
+.cid-ueaeMdBuAl .mbr-section-btn {
+  text-align: center;
+}
+.cid-ueaeMdBuAl .card-text,
+.cid-ueaeMdBuAl .item .mbr-section-btn {
+  text-align: left;
+}
+.cid-ueaeMdBuAl .counter-container ul {
+  margin: 0;
+  padding-left: 2.25rem;
+  list-style: none;
+}
+.cid-ueaeMdBuAl .counter-container ul li {
+  position: relative;
+  list-style: none;
+  margin-bottom: 2rem;
+}
+.cid-ueaeMdBuAl .counter-container ul li:before {
+  position: absolute;
+  left: -1.5em;
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #232323;
+  background-color: #232323;
+  width: 0.5em;
+  height: 0.5em;
+  top: 0.4em;
+  border-radius: 50%;
+}
+.cid-ueaeMdBuAl .mbr-text UL {
+  text-align: left;
+}
 .cid-uaFQVHh9tT {
   z-index: 1000;
   width: 100%;
@@ -7330,92 +7330,6 @@ a {
   padding-bottom: 2rem;
   background-color: #c84673;
   overflow: hidden;
-}
-.cid-ueaeMdBuAl {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-05-06-at-11.36.58-1.jpeg");
-}
-.cid-ueaeMdBuAl .row {
-  flex-direction: row-reverse;
-}
-.cid-ueaeMdBuAl .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-ueaeMdBuAl .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-ueaeMdBuAl .mbr-description {
-  text-align: left;
-}
-.cid-ueaeMdBuAl .item-wrapper {
-  background: #ffffff;
-  margin-bottom: 2rem;
-  padding: 2.25rem 2.25rem 1rem 2.25rem;
-}
-@media (max-width: 767px) {
-  .cid-ueaeMdBuAl .item-wrapper {
-    padding: 2rem 1.5rem 0.5rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-@media (min-width: 992px) and (max-width: 1200px) {
-  .cid-ueaeMdBuAl .item-wrapper {
-    padding: 2rem 1.5rem 0.5rem 1.5rem;
-    margin-bottom: 1rem;
-  }
-}
-.cid-ueaeMdBuAl .card-title,
-.cid-ueaeMdBuAl .iconfont-wrapper {
-  color: #000000;
-}
-.cid-ueaeMdBuAl .card-text {
-  color: #000000;
-}
-.cid-ueaeMdBuAl .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-.cid-ueaeMdBuAl .mbr-text,
-.cid-ueaeMdBuAl .mbr-section-btn {
-  text-align: center;
-}
-.cid-ueaeMdBuAl .card-text,
-.cid-ueaeMdBuAl .item .mbr-section-btn {
-  text-align: left;
-}
-.cid-ueaeMdBuAl .counter-container ul {
-  margin: 0;
-  padding-left: 2.25rem;
-  list-style: none;
-}
-.cid-ueaeMdBuAl .counter-container ul li {
-  position: relative;
-  list-style: none;
-  margin-bottom: 2rem;
-}
-.cid-ueaeMdBuAl .counter-container ul li:before {
-  position: absolute;
-  left: -1.5em;
-  content: "";
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  color: #232323;
-  background-color: #232323;
-  width: 0.5em;
-  height: 0.5em;
-  top: 0.4em;
-  border-radius: 50%;
-}
-.cid-ueaeMdBuAl .mbr-text UL {
-  text-align: left;
 }
 .cid-ueafJJsR3c {
   padding-top: 1rem;

@@ -4270,6 +4270,59 @@ a {
   background-color: #73b548;
   overflow: hidden;
 }
+.cid-uhAdtL22Et {
+  padding-top: 7rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/latar-belakangilustrasi-vektor-latar-belakang-abstrak-hijau-alami-grafis-gratis-pngtree-ilustrasi-vektor-latar-belakang-abstrak-hijau-alami-gambar-vektor-gratis-vektor-gratis-pngtree-latar-belakang-hijau-kurva-di.jpeg");
+}
+.cid-uhAdtL22Et .item-subtitle {
+  line-height: 1.2;
+  color: #000000;
+  text-align: center;
+}
+.cid-uhAdtL22Et img,
+.cid-uhAdtL22Et .item-img {
+  width: 100%;
+  height: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.cid-uhAdtL22Et .item:focus,
+.cid-uhAdtL22Et span:focus {
+  outline: none;
+}
+.cid-uhAdtL22Et .item {
+  margin-bottom: 2rem;
+}
+@media (max-width: 767px) {
+  .cid-uhAdtL22Et .item {
+    margin-bottom: 1rem;
+  }
+}
+.cid-uhAdtL22Et .item-wrapper {
+  position: relative;
+  border-radius: 4px;
+  display: flex;
+  flex-flow: column nowrap;
+}
+.cid-uhAdtL22Et .mbr-section-btn {
+  margin-top: auto !important;
+}
+.cid-uhAdtL22Et .mbr-section-title {
+  color: #232323;
+}
+.cid-uhAdtL22Et .mbr-text,
+.cid-uhAdtL22Et .mbr-section-btn {
+  color: #a6a99c;
+  text-align: center;
+}
+.cid-uhAdtL22Et .item-title {
+  color: #232323;
+  text-align: center;
+}
+.cid-uhAdtL22Et .content-head {
+  max-width: 800px;
+}
 .cid-uaFQVHh9tT {
   z-index: 1000;
   width: 100%;
@@ -4835,122 +4888,6 @@ a {
     padding: 1rem;
   }
 }
-.cid-ubfurMHJJo {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-05-06-at-11.36.58-2.jpeg");
-}
-.cid-ubfurMHJJo .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.5;
-}
-.cid-ubfurMHJJo img,
-.cid-ubfurMHJJo .item-img {
-  width: 100%;
-}
-.cid-ubfurMHJJo .item:focus,
-.cid-ubfurMHJJo span:focus {
-  outline: none;
-}
-.cid-ubfurMHJJo .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-  position: relative;
-}
-.cid-ubfurMHJJo .item-wrapper {
-  position: unset;
-  border-radius: 4px;
-  background: #ffffff;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-ubfurMHJJo .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-ubfurMHJJo .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-ubfurMHJJo .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-ubfurMHJJo .mbr-section-title {
-  color: #ffffff;
-}
-.cid-ubfurMHJJo .mbr-text,
-.cid-ubfurMHJJo .mbr-section-btn {
-  text-align: center;
-}
-.cid-ubfurMHJJo .item-title {
-  text-align: center;
-}
-.cid-ubfurMHJJo .item-subtitle {
-  text-align: left;
-}
-.cid-ubfurMHJJo .mbr-section-subtitle {
-  color: #000000;
-}
-.cid-ubfuud3D7i {
-  padding-top: 1rem;
-  padding-bottom: 3rem;
-  background-image: url("../../../assets/images/whatsapp-image-2024-05-06-at-11.36.57.jpeg");
-}
-.cid-ubfuud3D7i .mbr-overlay {
-  background: #fafafa;
-  opacity: 0.4;
-}
-.cid-ubfuud3D7i img,
-.cid-ubfuud3D7i .item-img {
-  width: 100%;
-}
-.cid-ubfuud3D7i .item:focus,
-.cid-ubfuud3D7i span:focus {
-  outline: none;
-}
-.cid-ubfuud3D7i .item {
-  cursor: pointer;
-  margin-bottom: 2rem;
-  position: relative;
-}
-.cid-ubfuud3D7i .item-wrapper {
-  position: unset;
-  border-radius: 4px;
-  background: #ffffff;
-  height: 100%;
-  display: flex;
-  flex-flow: column nowrap;
-}
-@media (min-width: 992px) {
-  .cid-ubfuud3D7i .item-wrapper .item-content {
-    padding: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-ubfuud3D7i .item-wrapper .item-content {
-    padding: 1rem;
-  }
-}
-.cid-ubfuud3D7i .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-ubfuud3D7i .mbr-section-title {
-  color: #ffffff;
-}
-.cid-ubfuud3D7i .mbr-text,
-.cid-ubfuud3D7i .mbr-section-btn {
-  text-align: center;
-}
-.cid-ubfuud3D7i .item-title {
-  text-align: center;
-  color: #000000;
-}
-.cid-ubfuud3D7i .item-subtitle {
-  text-align: left;
-}
 .cid-ucccZ1T7sk {
   padding-top: 1rem;
   padding-bottom: 1rem;
@@ -4995,59 +4932,6 @@ a {
   padding-bottom: 2rem;
   background-color: #73b548;
   overflow: hidden;
-}
-.cid-uhAdtL22Et {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/latar-belakangilustrasi-vektor-latar-belakang-abstrak-hijau-alami-grafis-gratis-pngtree-ilustrasi-vektor-latar-belakang-abstrak-hijau-alami-gambar-vektor-gratis-vektor-gratis-pngtree-latar-belakang-hijau-kurva-di.jpeg");
-}
-.cid-uhAdtL22Et .item-subtitle {
-  line-height: 1.2;
-  color: #000000;
-  text-align: center;
-}
-.cid-uhAdtL22Et img,
-.cid-uhAdtL22Et .item-img {
-  width: 100%;
-  height: 100%;
-  height: 400px;
-  object-fit: cover;
-}
-.cid-uhAdtL22Et .item:focus,
-.cid-uhAdtL22Et span:focus {
-  outline: none;
-}
-.cid-uhAdtL22Et .item {
-  margin-bottom: 2rem;
-}
-@media (max-width: 767px) {
-  .cid-uhAdtL22Et .item {
-    margin-bottom: 1rem;
-  }
-}
-.cid-uhAdtL22Et .item-wrapper {
-  position: relative;
-  border-radius: 4px;
-  display: flex;
-  flex-flow: column nowrap;
-}
-.cid-uhAdtL22Et .mbr-section-btn {
-  margin-top: auto !important;
-}
-.cid-uhAdtL22Et .mbr-section-title {
-  color: #232323;
-}
-.cid-uhAdtL22Et .mbr-text,
-.cid-uhAdtL22Et .mbr-section-btn {
-  color: #a6a99c;
-  text-align: center;
-}
-.cid-uhAdtL22Et .item-title {
-  color: #232323;
-  text-align: center;
-}
-.cid-uhAdtL22Et .content-head {
-  max-width: 800px;
 }
 .cid-uhCLzvU0b6 {
   padding-top: 7rem;
